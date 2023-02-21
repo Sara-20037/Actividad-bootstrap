@@ -1,0 +1,32 @@
+
+.B1{
+    background-color:rgb(219, 241, 255) ;
+}
+
+.im{
+    width: 45px;
+    height: 45px;
+}
+
+.C1{
+    background-image:url(./img/bg-pattern-quotation.svg );
+    background-repeat: no-repeat;
+    background-color: rgb(119, 20, 212);
+    background-position:23rem 0rem;
+}
+
+.C2{
+    background-color: rgb(80, 91, 112);
+}
+
+.C3{
+    background-color: rgb(31, 31, 63);
+}
+
+.da{
+    border-color: rgb(173, 136, 207) !important;
+}
+
+.ki{
+    font-size: 11pt;
+}
